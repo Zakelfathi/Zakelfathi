@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria El Fathi</h1>
-<h3 align="center">A passionate IT & Data Engineering Student from Morocco</h3>
+<h3 align="center">A passionate IT & Data Engineering Student from Morocco MA</h3>
 
 - 🌱 I’m currently learning **React, Laravel, Machine Learning, ..**
 
