@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zakelfathi@gmail.com**
 
-- 📄 Know about my experiences [https://zakelfathi.tiiny.site/](https://zakelfathi.tiiny.site/)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rS_yFt5EUe1qe6lg8uGDxOhUgybF6OyM/view?usp=sharing"> here resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
