@@ -6,4 +6,6 @@
 [![Dev.to](https://img.shields.io/badge/elfathi.me-0A0A0A?style=social&logo=mywebsite&style=flat&logoColor=white)](https://elfathi.me/)
 
 
-## [Resume / CV](https://crimson-tarah-60.tiiny.site/)
+## [Resume / CV (data)](https://docdro.id/yzZEia6)
+
+## [Resume / CV (dev)](https://docdro.id/UHFSAHT)
