@@ -7,9 +7,9 @@
         <a href="https://www.linkedin.com/in/zakelfathi/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=ll" alt="linkedin" /></a>
     </div>
     <div align=center>
-    <p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
+   <p align="center">
+  <img height="280" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakelfathi&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" /> 
 </p>
