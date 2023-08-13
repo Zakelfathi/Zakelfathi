@@ -6,8 +6,8 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Zakelfathi+%F0%9F%91%8B;Software+and+Data+Student;Full+stack+developer;Problem+Solver;Freelancer;Data+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-         <a href="http://www.elfathi.me/"><img src="https://img.shields.io/badge/zakelfathi-494949?style=flat&logo=portfolio" alt="LinkedIn" /></a>
-        <a href="https://www.linkedin.com/in/zakelfathi/"><img src="https://img.shields.io/badge/linkedIn-0077b5?style=flat&logo=ll" alt="linkedin" /></a>
+         <a href="http://www.elfathi.me/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=portfolio" alt="portfolio" /></a>
+        <a href="https://www.linkedin.com/in/zakelfathi/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=ll" alt="linkedin" /></a>
         <!-- <a href="https://stackoverflow.com/users/15108279/zakelfathi"><img src="https://img.shields.io/badge/zakelfathi-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a> -->
         <!-- <a href="https://www.elfathi.me"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a> -->
         <!-- <a href="https://t.me/zakelfathi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>  -->
