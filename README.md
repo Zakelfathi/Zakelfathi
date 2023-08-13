@@ -7,8 +7,12 @@
         <a href="https://www.linkedin.com/in/zakelfathi/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=ll" alt="linkedin" /></a>
     </div>
     <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakelfathi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+    <p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakelfathi&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" /> 
+</p>
         <br>
         <br>
     </div>
