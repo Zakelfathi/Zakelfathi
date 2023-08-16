@@ -5,7 +5,14 @@
     <div align=center>
          <a href="http://www.elfathi.me/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=portfolio" alt="portfolio" /></a>
         <a href="https://www.linkedin.com/in/zakelfathi/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=ll" alt="linkedin" /></a>
-    </div>
+        
+---
+
+[![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+---
+   
+ </div>
     <div align=center>
    <p align="center">
   <img height="280" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -21,5 +28,7 @@
     </div>
 </div>
 
+
 ------
+
 Last edited on: 13/08/2023
