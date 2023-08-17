@@ -8,7 +8,7 @@
         
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
