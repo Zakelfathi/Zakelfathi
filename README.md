@@ -9,6 +9,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
    
@@ -16,9 +17,6 @@
     <div align=center>
    <p align="center">
   <img height="280" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakelfathi&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" /> 
 </p>
         <br>
         <br>
