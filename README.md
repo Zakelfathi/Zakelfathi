@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/zakelfathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15108279/zakelfathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15108279/zakelfathi" height="30" width="40" /></a>
 <a href="https://instagram.com/zackaria_fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zackaria_fathy" height="30" width="40" /></a>
-<a href="discordapp.com/users/917009451142230086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="917009451142230086" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/917009451142230086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="917009451142230086" height="30" width="40" /></a>
 </p>
 
 ---
