@@ -5,7 +5,7 @@
     <div align=center>
          <a href="http://www.elfathi.me/"><img src="https://img.shields.io/badge/Portfolio-494949?style=flat&logo=portfolio" alt="portfolio" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zakelfathi&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in) 
         
 ---
 
@@ -18,8 +18,15 @@
 </p>
 
 ---
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;">
+         <img src="https://github-readme-stats.vercel.app/api?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; margin-left: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 ---
    
