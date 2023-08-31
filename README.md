@@ -21,10 +21,6 @@
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 5px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;">
-         <img src="https://github-readme-stats.vercel.app/api?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; margin-left: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakelfathi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
     </div>
 </div>
 
